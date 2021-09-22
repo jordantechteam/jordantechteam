@@ -1,1 +1,0 @@
-https://docs.microsoft.com/en-us/azure/static-web-apps/custom-domain?wt.mc_id=azurestaticwebapps_inline_inproduct_general&tabs=azure-dns#create-an-alias-record
